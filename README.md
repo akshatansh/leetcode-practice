@@ -32,7 +32,6 @@ _All solutions are orderd by: Solution # / Language
 |   ❌    | 9   | [Pallindrome Number](https://leetcode.com/problems/zigzag-conversion/)                                                                                | ![Medium](https://img.shields.io/badge/Medium-5cb85c.svg?style=flat)     | [GitHub](https://github.com/akshatansh/leetcode-practice/blob/main/Median%20of%20Two%20Sorted%20Arrays)                                              | 67 ms  | 45.17 MB | ![Java](https://img.shields.io/badge/Java--f1e05a.svg?style=flat) |
 |   ❌    | 10   | [Regular Expression Matching](https://leetcode.com/problems/zigzag-conversion/)                                                                                | ![Medium](https://img.shields.io/badge/Hard-5cb85c.svg?style=flat)     | [GitHub](https://github.com/akshatansh/leetcode-practice/blob/main/Median%20of%20Two%20Sorted%20Arrays)                                              | 67 ms  | 45.17 MB | ![Java](https://img.shields.io/badge/Java--f1e05a.svg?style=flat) |
 |   ❌    | 11   | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/submissions/1231669537/)                                                                                | ![Medium](https://img.shields.io/badge/Medium-5cb85c.svg?style=flat)     | [GitHub](https://github.com/akshatansh/leetcode-practice/blob/main/Median%20of%20Two%20Sorted%20Arrays)                                              | 6 ms  | 58.6  MB | ![Java](https://img.shields.io/badge/Java--f1e05a.svg?style=flat) |
-M
 
 
 
